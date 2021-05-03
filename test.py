@@ -1,3 +1,2 @@
-print('testing.github')
+print('salam')
 
-print('hello')
